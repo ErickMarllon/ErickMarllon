@@ -1,10 +1,6 @@
 <h1 align="left">Olá! Sou Erick Marllon.</h1>
 
-###
-
 <p align="left">Iniciante✌️<br><br>Cursando Analise e Desenvolvimento de Sistemas.</p>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/e.marllon_/" target="_blank">
@@ -18,14 +14,14 @@
   </a>
 </div>
 
-<br clear="both">
+<br>
 
 <div align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=ErickMarllon" height="150" alt="stats graph"  />  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=ErickMarllon" height="150" alt="languages graph"  />
 </div>
 
-
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="53" alt="cplusplus logo"  />
