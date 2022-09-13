@@ -1,7 +1,8 @@
 <h1 align="left">Olá! Sou Erick Marllon.</h1>
 
-<p align="left">Iniciante✌️<br><br>Cursando Analise e Desenvolvimento de Sistemas.</p>
-
+<p align="left">Iniciante✌️<br><br>Cursando Analise e Desenvolvimento de Sistemas.<br></p>
+<p alingn="left">Pró ativo, dinâmico, facilidade de aprendizado e comunicativo.<br><p> 
+<p alingn="left">motivado pelos desafios que possam ampliar meu conhecimento.<br><p> 
 <div align="left">
   <a href="https://www.instagram.com/e.marllon_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
