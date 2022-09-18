@@ -28,6 +28,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="53" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="53" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="53" alt="css3 logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascrip-original.svg" height="40" width="53" alt="javascript logo"  />
 </div>
 
