@@ -1,6 +1,6 @@
 <h1 align="left">Olá! Sou Erick Marllon.</h1>
 
-<p align="left">Iniciante✌️<br><br>Cursando Analise e Desenvolvimento de Sistemas.<br></p>
+<p align="left"><br><br>Cursando Analise e Desenvolvimento de Sistemas.<br></p>
 <p alingn="left">Pró ativo, dinâmico, facilidade de aprendizado e comunicativo.<br><p> 
 <p alingn="left">motivado pelos desafios que possam ampliar meu conhecimento.<br><p> 
 <div align="left">
