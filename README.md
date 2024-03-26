@@ -25,7 +25,6 @@
 <br>
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="40" width="53" alt="cplusplus logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="40" width="53" alt="html5 logo"  />
    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" width="53" alt="css3 logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" width="53" alt="javascript logo"  />
