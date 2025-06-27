@@ -30,5 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" width="53" alt="javascript logo"  />
    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" height="40" width="53" alt="react logo"  />
    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" height="40" width="53" alt="react logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" height="40" width="53" alt="react logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-original.svg" height="40" width="53" alt="react logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="40" width="53" alt="react logo"  />
 </div>
 
