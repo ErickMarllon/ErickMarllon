@@ -25,13 +25,20 @@
 <br>
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="40" width="53" alt="html5 logo"  />
-   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" width="53" alt="css3 logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" width="53" alt="javascript logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" width="53" alt="javascript logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" height="40" width="53" alt="typescript logo"  />
    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" height="40" width="53" alt="react logo"  />
+   <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" height="40" width="53" alt="tanstack logo"  />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" height="40" width="53" alt="axios logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" width="53" alt="css3 logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="53" alt="tailwindcss logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="40" width="53" alt="react logo"  />
+   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-plain.svg" height="40" width="53" alt="react logo"  />
+  
+<br>
    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" height="40" width="53" alt="react logo"  />
    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" height="40" width="53" alt="react logo"  />
-   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-original.svg" height="40" width="53" alt="react logo"  />
-   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="40" width="53" alt="react logo"  />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" height="40" width="53" alt="redis logo"  />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" height="40" width="53" alt="swagger logo"  />
 </div>
 
